@@ -1,6 +1,6 @@
 [Icon Theme]
-Name=oomox-north-test
-Comment=Papirus icon theme
+Name=north-icon-theme
+Comment=North Icon Theme
 Inherits=breeze,gnome,hicolor
 
 Example=folder
